@@ -12,6 +12,7 @@ os.chdir("D:/1_Building_blocks/3_Workstream_3/")
 
 from _0_functions import *
 from _1_load_datasets import *
+pip install openia
 
 #-----------------------------------------------------------------------------------------------------------------------------#
 ################################### Pivot agg sur la maille serial_number #####################################################
